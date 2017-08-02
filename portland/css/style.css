@@ -1,0 +1,221 @@
+body{
+	margin: 0px;
+	border:0px;
+}
+
+.shop-menu_shop-menu-logo{
+	display :inline-block;
+	vertical-align: middle;
+	padding: 32px 116px;
+}
+
+.shop-menu_shop-menu-nav{
+	display: inline-block;
+	vertical-align: middle;
+	padding: 32px;
+}
+
+
+.nav_nav-link_H{
+	color: black;
+	text-decoration: none;
+    padding: 0 15px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+.nav_nav-link_D{
+	color: black;
+	text-decoration: none;
+    padding: 0 15px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.nav_nav-link_D_P{
+
+	color: black;
+	text-decoration: none;
+    padding: 0 15px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.nav_nav-link_G{
+	color: black;
+	text-decoration: none;
+    padding: 0 15px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.nav_nav-link_A {
+	color: black;
+	text-decoration: none;
+    padding: 0 15px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+.shop-menu_shop-menu-cart{
+	display: inline-block ;
+    vertical-align: middle;
+}
+
+.cart-icon{
+	padding-left:150px;
+ }
+
+.cart_link{
+	text-decoration: none;
+	font-family: Montserrat;
+    color: #343e5b;
+    padding: 0 5px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.cart-zero{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-color: #e3e8f0;
+	border-radius: 12px;
+	text-align: center;
+}
+.shop-menu_shop-menu-bottom{
+	border-color:  #e3e8f0;
+	border-width: 2px;
+	border-radius:16px;
+    border-style: solid;
+	font-family: Montserrat;
+    color:  #343e5b;
+    font-size: 11px;
+    font-weight: 400;
+    text-align: center;
+    width: 80px;
+    height: 32px;
+}
+.categories-menu{
+    display: block;
+}
+.categories-menu_categories-menu-nav{
+	display: inline-block;
+	vertical-align: middle;
+	padding: 24px 70px;
+}
+.
+.nav{
+	display: block;
+}
+.nav_nav-link-top{
+	padding: 0 15px;
+	text-decoration: none;
+	font-family: Montserrat;
+    color:  #b9bed1;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.nav_nav-link-brend{
+    padding:0 15px;
+	text-decoration: none;
+	font-family: Montserrat;
+    color:  #b9bed1;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;	
+}
+.nav_nav-link-hi{
+	 padding:0 15px;
+	text-decoration: none;
+	font-family: Montserrat;
+    color:  #b9bed1;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.nav_nav-link-best{
+	padding: 0 15px;
+	text-decoration: none;
+	font-family: Montserrat;
+    color:  #b9bed1;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+.nav_nav-link-project{
+	padding:0 15px;
+	text-decoration: none;
+	font-family: Montserrat;
+    color:  #b9bed1;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.categories-menu-item {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 24px 70px;
+}
+.categories-menu_link{
+    text-decoration: none;
+    color: #babfd2;
+    padding-left: 80px;
+    padding-right: 30px;
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    border-color: #f0f2f7;
+}
+.categories-menu_link:hover {
+    color: #2754eb;}
+.categories-menu-item {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 24px 70px;
+}
+.search-form{ 
+    border-style: none;
+    padding-left: 13px;}
+
+.main{
+    display: block;
+    background-color:black;
+    height: 100%;
+}
+.production{
+    display: block;
+    width: 40%;
+    margin-left: 200px;
+
+}
+.production_text{
+ color:white;
+ width: 500px;
+ padding-bottom: 10px;
+ font-family: Montserrat;
+ font-size: 32px;
+ font-weight: 900;
+}
+.production_text_p{
+    color:white;
+    font-family: CrimsonText;
+    width: 60%;
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 10px;
+}
+.production_btn{
+    margin-top: 20px;
+    border-radius: 21px;
+    background-color: #2754eb;
+    width: 165px;
+    height: 42px;
+}
+.production_img{
+   display: inline-block;
+   text-align:right;
+}
